@@ -1,0 +1,5 @@
+jobs machines,makespan,time,
+20 15,10130,30min,
+30 15,17798,30min,
+50 15,29967,30min,
+100 20,81306,30min,

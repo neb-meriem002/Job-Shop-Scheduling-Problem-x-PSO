@@ -1,0 +1,14 @@
+jobs machines,policy,makespan,
+20 15,shortest completion time,11100,
+20 15,shortest start time,2018,
+20 15,shortest finish time,2120,
+30 15,shortest completion time,17996
+30 15,shortest start time,2436
+30 15,shortest finish time,2389
+50 15,shortest completion time,30389
+50 15,shortest start time,3717
+50 15,shortest finish time,3744
+100 20,shortest completion time,81241
+100 20,shortest start time,6704
+100 20,shortest finish time,6716
+
